@@ -1,2 +1,2 @@
-# decln50.github.io
+# declyn50.github.io
 Portfolio Website 2023
